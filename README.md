@@ -8,8 +8,7 @@ This repository contains a high-performance C++ implementation of the **Three-Ha
 You can download the repository using the following command:
 
 ```bash
-git clone [https://github.com/GarbleCoder/Implementation-of-threehalves.git](https://github.com/GarbleCoder/Implementation-of-threehalves.git)
-cd Implementation-of-threehalves
+git clone https://github.com/GarbleCoder/Implementation-of-threehalves.git
 ```
 
 
@@ -19,6 +18,7 @@ Please execute the following commands in the project root directory to compile a
 
 1.  **Create and enter the build directory**
     ```bash
+    cd Implementation-of-threehalves
     mkdir build && cd build
     ```
 
