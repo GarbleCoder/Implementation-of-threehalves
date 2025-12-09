@@ -10,7 +10,7 @@ You can download the repository using the following command:
 ```bash
 git clone [https://github.com/GarbleCoder/Implementation-of-threehalves.git](https://github.com/GarbleCoder/Implementation-of-threehalves.git)
 cd Implementation-of-threehalves
-
+```
 
 
 ## 📦 Compilation & Usage
